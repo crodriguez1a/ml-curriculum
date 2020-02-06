@@ -1,16 +1,27 @@
 # Deep Learning
-**Ian Goodfellow, Yoshua Bengio, and Aaron Courville**
+**Ian Goodfellow, Yoshua Bengio, Aaron Courville**
 
 ## Contents
 
-1. - [ ] [Introduction](https://github.com/crodriguez1a/ml-curriculum/blob/master/deep_learning/chapters/0.md)
+1. - [x] [Introduction](https://github.com/crodriguez1a/ml-curriculum/blob/master/deep_learning/chapters/0.md)
 
-## How to use this reference:
+1. - ~Omitted: Applied Learning & Machine Learning Basics~
 
-Each file contains a **subjective** paraphrasing of the concepts covered in each chapter. Notes should not be considered comprehensive by any definition, and simply aim to serve as a referential (and searchable) summary of the source material.
+1. - [ ] [Deep Networks: Modern Practices]()
+     - [ ] Deep Feedforward Networks
+     - [ ] Regularization for Deep Learning
+     - [ ] Optimization for Training Deep Models
+     - [ ] Convolutional Networks
+     - [ ] Sequence Modeling: Recurrent & Recursive Nets
+     - [ ] Practical Methodology
+     - [ ] Applications
 
-The chapters often include direct quotes and most especially when terms are initially defined.
-
-> Direct quotes will appear as html `blockquotes` like this one
-
-*NOTE: Some chapters and/sections are considered more supplemental than critical to understanding the concepts and are intentionally not summarized or summarized more succinctly.*
+1. - [ ] [Deep Learning Research]()
+     - [ ] Linear Factor Models
+     - [ ] Autoencoders
+     - [ ] Representation Learning
+     - [ ] Structured Probabilistic Models for Deep Learning
+     - [ ] Monte Carlo Methods
+     - [ ] Confronting the Partition Function
+     - [ ] Approximate Inference
+     - [ ] Deep Generative Models
