@@ -3,9 +3,9 @@
 
 ## Contents
 
-1. - [x] [Introduction](https://github.com/crodriguez1a/ml-curriculum/blob/master/deep_learning/chapters/0.md)
+1. - [x] [Introduction](0.md)
 
-1. - ~Omitted: Applied Learning & Machine Learning Basics~
+1. - ~Omitted: Applied Learning & Machine Learning Basics~ For terms defined in this section, [see **Glossary section**](glossary.md).
 
 1. - [ ] [Deep Networks: Modern Practices]()
      - [ ] Deep Feedforward Networks
