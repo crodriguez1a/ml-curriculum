@@ -33,3 +33,5 @@ Euclidean distance from the origin to the point identified by x.
 - **Eigenvalue**: The scalar λ is known as the eigenvalue corresponding to this eigenvector.
 
 - **Eigendecomposition**: One of the most widely used kinds of matrix decomposition is called eigendecomposition, in which we decompose a matrix into a set of eigenvectors and eigenvalues.
+
+- **Determinant**: The determinant of a square matrix, denoted det(A), is a function mapping matrices to real scalars. 
