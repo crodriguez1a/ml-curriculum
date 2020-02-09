@@ -9,9 +9,9 @@
 
 1. - [ ] [Probability and Information Theory](3.md)
     - [x] Introduction
-    - [ ] Why Probability?
-    - [ ] Random Variables
-    - [ ] Probability Distributions
+    - [x] Why Probability?
+    - [x] Random Variables
+    - [x] Probability Distributions
     - [ ] Marginal Probability
     - [ ] Conditional Probability
     - [ ] The Chain Rule of Conditional Probabilities
