@@ -8,21 +8,21 @@
 1. - ~Omitted: Applied Learning & Machine Learning Basics~ For terms defined in this section, [see **Glossary section**](glossary.md).
 
 1. - [ ] [Probability and Information Theory](3.md)
-    - [x] Introduction
-    - [x] Why Probability?
-    - [x] Random Variables
-    - [x] Probability Distributions
-    - [ ] Marginal Probability
-    - [ ] Conditional Probability
-    - [ ] The Chain Rule of Conditional Probabilities
-    - [ ] Independence and Conditional Independence
-    - [ ] Expectation, Variance and Covariance
-    - [ ] Common Probability Distributions
-    - [ ] Useful Properties of Common Functions
-    - [ ] Bayes' Rule
-    - [ ] Technical Details of Continuous Variables
-    - [ ] Information Theory
-    - [ ] Structured Probabilistic Models
+     - [x] Introduction
+     - [x] Why Probability?
+     - [x] Random Variables
+     - [x] Probability Distributions
+     - [ ] Marginal Probability
+     - [ ] Conditional Probability
+     - [ ] The Chain Rule of Conditional Probabilities
+     - [ ] Independence and Conditional Independence
+     - [ ] Expectation, Variance and Covariance
+     - [ ] Common Probability Distributions
+     - [ ] Useful Properties of Common Functions
+     - [ ] Bayes' Rule
+     - [ ] Technical Details of Continuous Variables
+     - [ ] Information Theory
+     - [ ] Structured Probabilistic Models
 
 1. - [ ] [Deep Networks: Modern Practices](4.md)
      - [ ] Deep Feedforward Networks
