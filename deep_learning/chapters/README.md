@@ -5,7 +5,7 @@
 
 1. - [x] [Introduction](0.md)
 
-1. - ~Omitted: Applied Learning & Machine Learning Basics~ For terms defined in this section, [see **Glossary section**](glossary.md).
+1. - ~Not summarized: Applied Learning & Machine Learning Basics~ [See Glossary](glossary.md).
 
 1. - [ ] [Probability and Information Theory](3.md)
      - [x] Introduction
@@ -24,7 +24,15 @@
      - [ ] Information Theory
      - [ ] Structured Probabilistic Models
 
-1. - [ ] [Deep Networks: Modern Practices](4.md)
+1. - [ ] [Numerical Computation](4.md)
+     - [ ] Overflow and Underflow
+     - [ ] Poor Conditioning
+     - [ ] Gradient-Based Optimization
+     - [ ] Constrained Optimization
+
+1. - ~Not summarized: Machine Learning Basics~ [See Glossary](glossary.md)
+
+1. - [ ] [Deep Networks: Modern Practices](5.md)
      - [ ] Deep Feedforward Networks
      - [ ] Regularization for Deep Learning
      - [ ] Optimization for Training Deep Models
