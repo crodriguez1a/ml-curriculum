@@ -12,11 +12,11 @@
      - [x] Why Probability?
      - [x] Random Variables
      - [x] Probability Distributions
-     - [ ] Marginal Probability
-     - [ ] Conditional Probability
-     - [ ] The Chain Rule of Conditional Probabilities
-     - [ ] Independence and Conditional Independence
-     - [ ] Expectation, Variance and Covariance
+     - [x] Marginal Probability
+     - [x] Conditional Probability
+     - [x] The Chain Rule of Conditional Probabilities
+     - [x] Independence and Conditional Independence
+     - [x] Expectation, Variance and Covariance
      - [ ] Common Probability Distributions
      - [ ] Useful Properties of Common Functions
      - [ ] Bayes' Rule
