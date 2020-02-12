@@ -17,7 +17,7 @@
      - [x] The Chain Rule of Conditional Probabilities
      - [x] Independence and Conditional Independence
      - [x] Expectation, Variance and Covariance
-     - [ ] Common Probability Distributions
+     - [x] Common Probability Distributions
      - [ ] Useful Properties of Common Functions
      - [ ] Bayes' Rule
      - [ ] Technical Details of Continuous Variables
