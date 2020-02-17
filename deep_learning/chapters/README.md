@@ -7,7 +7,7 @@
 
 1. - ~Not summarized: Applied Learning & Machine Learning Basics~ [See Glossary](glossary.md).
 
-1. - [ ] [Probability and Information Theory](3.md)
+1. - [x] [Probability and Information Theory](3.md)
      - [x] Introduction
      - [x] Why Probability?
      - [x] Random Variables
@@ -18,11 +18,11 @@
      - [x] Independence and Conditional Independence
      - [x] Expectation, Variance and Covariance
      - [x] Common Probability Distributions
-     - [ ] Useful Properties of Common Functions
-     - [ ] Bayes' Rule
-     - [ ] Technical Details of Continuous Variables
-     - [ ] Information Theory
-     - [ ] Structured Probabilistic Models
+     - [x] Useful Properties of Common Functions
+     - [x] Bayes' Rule
+     - [x] Technical Details of Continuous Variables
+     - [x] Information Theory
+     - [x] Structured Probabilistic Models
 
 1. - [ ] [Numerical Computation](4.md)
      - [ ] Overflow and Underflow

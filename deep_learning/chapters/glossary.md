@@ -1,4 +1,6 @@
-# Linear Algebra
+# Glossary
+
+## Linear Algebra
 
 - **Scalars**: A scalar is just a single number, in contrast to most other objects studied in linear algebra, which are usually arrays of multiple numbers.
 
@@ -34,4 +36,14 @@ Euclidean distance from the origin to the point identified by x.
 
 - **Eigendecomposition**: One of the most widely used kinds of matrix decomposition is called eigendecomposition, in which we decompose a matrix into a set of eigenvectors and eigenvalues.
 
-- **Determinant**: The determinant of a square matrix, denoted det(A), is a function mapping matrices to real scalars. 
+- **Determinant**: The determinant of a square matrix, denoted det(A), is a function mapping matrices to real scalars.
+
+## Machine Learning Basics
+
+## From Various Chapters
+
+- **Isotropic Covariance Matrix**: has the same amount of variance in each direction.
+
+- **Diagonal Covariance Matrix**: can control the variance separately along each axis-aligned direction.
+
+- **Full-rank Covariance Matrix**: controls the variance separately along an arbitrary basis of directions.
