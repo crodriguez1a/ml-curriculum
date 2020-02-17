@@ -5,7 +5,7 @@
 
 1. - [x] [Introduction](0.md)
 
-1. - ~Not summarized: Applied Learning & Machine Learning Basics~ [See Glossary](glossary.md).
+1. - ~Not summarized: Linear Algebra~ [See Glossary](glossary.md).
 
 1. - [x] [Probability and Information Theory](3.md)
      - [x] Introduction
