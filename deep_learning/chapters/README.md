@@ -25,7 +25,7 @@
      - [x] Structured Probabilistic Models
 
 1. - [ ] [Numerical Computation](4.md)
-     - [ ] Overflow and Underflow
+     - [x] Overflow and Underflow
      - [ ] Poor Conditioning
      - [ ] Gradient-Based Optimization
      - [ ] Constrained Optimization
